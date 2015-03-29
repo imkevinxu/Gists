@@ -3,14 +3,14 @@ List of gists I made. Because no one ever checks someone's GitHub Gists profile 
 
 ### Bash
 - [git random](https://gist.github.com/imkevinxu/4016346) - Alias that will commit a random commit message from http://whatthecommit.com/
-- [vidtogif.sh](https://gist.github.com/imkevinxu/96e3cb1d7e308f867a0f) - Convert an animated video to gif. Works best for videos with low color palettes like Dribbble shots
+- [movtogif.sh](https://gist.github.com/imkevinxu/96e3cb1d7e308f867a0f) - Convert a .mov Quicktime video into a .gif
 
 ### iOS
 - [UIFont+Extensions.swift](https://gist.github.com/imkevinxu/b92fa70f37e4846bcd27) - iOS UIFont sensible defaults
 - [Device.swift](https://gist.github.com/imkevinxu/2bb1197552b095ab25c8) - iOS device checks for OS version and screen size
 
 ### Xcode
-- [Increment Build Number.sh](https://gist.github.com/imkevinxu/b92fa70f37e4846bcd27) - Xcode build phase script to increment the build number
+- [Increment Build Number.sh](https://gist.github.com/imkevinxu/7a4fe9f258edec42eee9) - Xcode build phase script to increment the build number
 
 ### Django
 - [Read uploaded CSV file](https://gist.github.com/imkevinxu/3365661)
