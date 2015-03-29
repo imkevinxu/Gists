@@ -4,6 +4,7 @@ List of gists I made. Because no one ever checks someone's GitHub Gists profile 
 ### Bash
 - [git random](https://gist.github.com/imkevinxu/4016346) - Alias that will commit a random commit message from http://whatthecommit.com/
 - [vidtogif.sh](https://gist.github.com/imkevinxu/96e3cb1d7e308f867a0f) - Convert an animated video to gif. Works best for videos with low color palettes like Dribbble shots
+- [ffmpegtogif.sh](https://gist.github.com/imkevinxu/e0b51ddeb5b877ed4fae) - Convert a live action video to gif. Works best for videos with high color palettes like videos from your phone
 
 ### iOS
 - [UIFont+Extensions.swift](https://gist.github.com/imkevinxu/b92fa70f37e4846bcd27) - iOS UIFont sensible defaults
