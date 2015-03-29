@@ -11,7 +11,7 @@ List of gists I made. Because no one ever checks someone's GitHub Gists profile 
 - [Device.swift](https://gist.github.com/imkevinxu/2bb1197552b095ab25c8) - iOS device checks for OS version and screen size
 
 ### Xcode
-- [Increment Build Number.sh](https://gist.github.com/imkevinxu/b92fa70f37e4846bcd27) - Xcode build phase script to increment the build number
+- [Increment Build Number.sh](https://gist.github.com/imkevinxu/7a4fe9f258edec42eee9) - Xcode build phase script to increment the build number
 
 ### Django
 - [Read uploaded CSV file](https://gist.github.com/imkevinxu/3365661)
